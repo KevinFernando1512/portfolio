@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "task3",
+			"path": "."
+		},
+		{
+			"name": "css1",
+			"path": "../css1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "task3"
+	}
+}

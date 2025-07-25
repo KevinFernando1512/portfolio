@@ -1,0 +1,21 @@
+body{
+    margin:0;
+}
+h1{
+    margin:0px;
+
+color: aqua;
+}
+header{
+    margin: 10px;
+
+    background-color:blanchedalmond;
+}
+div{
+    width: 450px;
+    height: 500px;
+    background-color: blue;
+    /*border: 5px solid darkblue;*/
+    border-top: 3px solid black;
+
+}
